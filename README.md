@@ -24,3 +24,10 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column</p>
 <h2>Website Link</h2>
 Check out the deployed app here:<a href="https://ass-cha-9.herokuapp.com/">Note Taker</a>
+<h2>Screenshots</h2>
+<h3>ON HEROKU</h3>
+<img src="public\assets\images\heroku_Screenshot1.png" alt="">
+<img src="public\assets\images\heroku_Screenshot2.png" alt="">
+<h3>ON LOCAL SERVER 3052</h3>
+<img src="public\assets\images\Screenshot1_on3052.png" alt="">
+<img src="public\assets\images\Screenshot2_on_3052.png" alt="">
